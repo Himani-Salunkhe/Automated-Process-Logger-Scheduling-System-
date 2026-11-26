@@ -1,0 +1,7 @@
+Starting time of directory scanning: 26_11_2026_16_17_05
+Completion time of directory scanning: 26_11_2026_16_17_05
+Name of the directory scanned: E:\Github_Repos\Automated-Process-Logger-Scheduling-System-\DuplicateFiles
+Total number of files scanned: 3
+Total number of duplicate files found: []
+Checksum values of duplicate files: dict_keys(['8ece83783f04e4d71a0d79832eb625cc', 'ff808f4995e2dc6cf2dfce7b7c576409', '3fd43500a658d2da33fb0c1912d0c8c6'])
+Total number of duplicate files deleted: 0
